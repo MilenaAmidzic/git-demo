@@ -7,8 +7,11 @@ Mene voljela
 Kao tebe ja
 Dal si ikada
 Mene voljela
+<<<<<<< HEAD
 
 trrttttt
 trtrtrtrrr
 trtrrrrtttt
 trtrtrrrr
+=======
+>>>>>>> cd1d66d (add first half of my favorite song)
